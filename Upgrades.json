@@ -1,0 +1,55 @@
+{
+  "technical_cofounder": {
+    "requirements": null,
+    "cost": null,
+    "reward": {
+      "developers": 1,
+      "dev_ops": 0
+    }
+  },
+  "first_customer": {
+    "requirements": {
+      "lines_of_code": 10
+    },
+    "cost": null,
+    "reward": {
+      "dollar_per_second": 1
+    }
+  },
+  "public_website": {
+    "requirements": null,
+    "cost": {
+      "money": 1000
+    },
+    "reward": {
+      "dollar_per_second": 10
+    }
+  },
+  "online_devops_course": {
+    "requirements": {
+      "developers": 1
+    },
+    "cost": null,
+    "reward": {
+      "dev_ops": 1
+    }
+  },
+  "npm": {
+    "requirements": {
+      "dev_ops": 1
+    },
+    "cost": null,
+    "reward": {
+      "lines_of_code_per_second": 1
+    }
+  },
+  "linked_in_job_advertisement": {
+    "requirements": null,
+    "cost": {
+      "money": 10
+    },
+    "reward": {
+      "developers": 10
+    }
+  }
+}
